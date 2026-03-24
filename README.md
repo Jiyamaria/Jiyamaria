@@ -1,109 +1,53 @@
-# 👋 Hi, I'm Jiya Maria Thankachan
-A BSc graduate (Anglia Ruskin University) exploring NLP & ML for practical, human-centred solutions. I build data-driven prototypes and deploy small demos that recruiters can run in minutes.
-
-[📫 Email](mailto:jiyamaria2002@gmail.com) • [LinkedIn](https://www.linkedin.com/in/jiyamaria) • [📄 Resume (PDF)](link-to-resume.pdf) • [▶️ Demo](link-to-demo)
+# Hi — I'm Jiya 👋
+Recent BSc Artificial Intelligence graduate from Anglia Ruskin University. I build practical ML systems, experiment with intelligent control, and craft clean web-frontends to showcase projects — all with an emphasis on fairness, explainability, and real-world impact.
 
 ---
 
-<!-- Badges -->
-<p align="left">
-  <img src="https://img.shields.io/badge/Role-Junior%20Data%20Scientist-blue?style=for-the-badge&logo=python" alt="role">
-  <img src="https://img.shields.io/badge/Stack-Python%20%7C%20pandas%20%7C%20sklearn-lightgrey?style=for-the-badge" alt="stack">
-  <img src="https://img.shields.io/badge/Focus-NLP%20%7C%20ML-purple?style=for-the-badge" alt="focus">
-  <img src="https://img.shields.io/badge/Looking%20for-Internships%20%7C%20Junior%20Roles-success?style=for-the-badge" alt="looking">
-</p>
-
-<!-- Dynamic GitHub cards -->
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jiyamaria&show_icons=true&theme=tokyonight" alt="Jiya's GitHub stats" height="140">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jiyamaria&layout=compact&theme=tokyonight" alt="Top languages" height="140">
-</p>
+## 🚀 What I do
+- Build end-to-end ML solutions (NLP & deep learning) and prototype control systems.
+- Turn research and coursework into reproducible notebooks and clear demos.
+- Communicate technical work through concise code, documentation, and portfolio sites.
 
 ---
 
-## ✨ One-line pitch
-I design small, deployable ML prototypes (NLP-focused) that extract value from messy text data — from resume parsing to meaningful candidate ranking for fast hiring decisions.
+## 🔧 Skills & Tools
+Python · NumPy · pandas · scikit-learn · PyTorch/TensorFlow · NLP · Jupyter Notebooks · MATLAB · Fuzzy Logic · HTML · Git · Linux
 
 ---
 
-<details>
-<summary>🔎 Spotlight — AI-POWERED Resume Screening (click to expand)</summary>
+## ✨ Featured projects
 
-- Short: Prototype to parse, embed and rank resumes vs job descriptions using sentence embeddings + a simple ranker.
-- Tech: Python, spaCy, sentence-transformers, scikit-learn, Streamlit demo.
-- Status: Prototype + notebooks (reproducible). Demo link: [▶️ Live demo](link-to-demo)
-- Why it matters: Saves recruiters time and surfaces relevant applicants quickly while supporting human review.
+- Portfolio — HTML  
+  Personal portfolio website showcasing my work and contact details.  
+  https://github.com/Jiyamaria/Portfolio
 
-</details>
+- AI-POWERED-RESUME-SCREENING-USING-NLP-MACHINE-LEARNING — Jupyter Notebook  
+  An NLP + ML system to automate resume screening and reduce bias in early-stage hiring. Includes data processing, model training and evaluation notebooks.   
+  https://github.com/Jiyamaria/AI-POWERED-RESUME-SCREENING-USING-NLP-MACHINE-LEARNING
 
----
+- Fuzzy-Logic-Controller — MATLAB  
+  A Fuzzy Logic Controller designed for truck fuel injection control — demonstrates control theory, simulation and parameter tuning.   
+  https://github.com/Jiyamaria/Fuzzy-Logic-Controller
 
-## 🛠 Skills & Tools
-<details>
-<summary>Click to view</summary>
-
-- Programming: Python, SQL
-- Data: pandas, NumPy, Excel, data cleaning & EDA
-- ML / NLP: scikit-learn, sentence-transformers, spaCy, NLTK, embeddings
-- Deployment & infra: Streamlit, Docker (basic), Git & GitHub
-- Soft: Communication, teamwork, organization, problem solving
-
-</details>
+- deep-learning — (collection)  
+  Experiments and models for deep learning coursework and personal study. Licensed under GNU LGPL v2.1.   
+  https://github.com/Jiyamaria/deep-learning
 
 ---
 
-## 🧾 Experience (short)
-<details>
-<summary>Click to view</summary>
-
-- Hospitality Assistant — First Care Homes (Mar 2023 – present)  
-  Duties: guest services, stocking, customer care. Developed strong communication & organization.
-
-- Domestic Assistant — First Care Homes (Mar 2023 – Apr 2025)  
-  Household maintenance, logistics, and careful record keeping.
-
-- Clerical Marker — The Adecco Group (Jul 2024)  
-  Performed clerical marking tasks under defined schemes.
-
-</details>
+## 🎓 Education
+BSc Artificial Intelligence — Anglia Ruskin University  
+Upper Second Class Honours 
 
 ---
 
-## 🎯 What I want
-Open to: junior data science / ML internships, entry-level ML engineering roles, or NLP-focused research assistant positions. I'm eager to grow in model deployment, feature engineering, and production-ready pipelines.
+## 📫 Get in touch
+- GitHub: https://github.com/Jiyamaria  
+- LinkedIn: www.linkedin.com/in/jiyamaria
 
 ---
 
-## 📂 Featured repos (pin these)
-- ai-resume-screening — NLP resume parsing + ranking (demo + notebooks)  
-- data-cleaning-examples — practical data cleaning recipes (notebooks)  
-- deployment-demo — small Streamlit demo showing a model in action
-
-(If you want, I can generate README templates for each repo.)
-
----
-
-## 📣 Quick demo / try it
-- Try my Streamlit demo: [▶️ Open demo](link-to-demo)  
-- Run locally:
-  1. git clone https://github.com/Jiyamaria/ai-resume-screening
-  2. python -m venv venv && source venv/bin/activate
-  3. pip install -r requirements.txt
-  4. streamlit run src/app.py
-
----
-
-## ⚖️ Ethics & privacy
-This is a research prototype. When evaluating resumes in real settings: audit for bias, exclude sensitive attributes, and keep a human-in-the-loop.
-
----
-
-## 📫 Contact
-- LinkedIn (best for recruiters): https://www.linkedin.com/in/jiyamaria  
-- Email: jiyamaria2002@gmail.com
-
----
-
-<p align="center">
-  <em>Thanks for visiting — open an issue or DM me on LinkedIn for collaborations or job opportunities 🚀</em>
-</p>
+## 🌱 Next steps I’m working on
+- Expanding project READMEs with quick demo gifs and reproducible setup instructions.  
+- Adding model evaluation notebooks with explainability analyses for the resume-screening project.  
+- Converting the portfolio into a small, deployable site with a contact form and project highlights.
