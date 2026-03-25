@@ -10,7 +10,7 @@ Motivated BSc student at Anglia Ruskin University specialising in Data Science, 
 ---
 
 ## 🔧 Skills & Tools
-Python · NumPy · pandas · scikit-learn · Machine Learning . PyTorch/TensorFlow · NLP · Jupyter Notebooks · MATLAB · Fuzzy Logic · HTML · Git · MS Office Tools . Data Analysis. Data Cleaning . Deep Learning . Artificial Intelligence 
+Python . NumPy . pandas . scikit-learn . Machine Learning . PyTorch/TensorFlow · NLP · Jupyter Notebooks · MATLAB · Fuzzy Logic · HTML · Git · MS Office Tools . Data Analysis. Data Cleaning . Deep Learning . Artificial Intelligence 
 
 ---
 
