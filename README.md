@@ -1,17 +1,16 @@
 # Hi — I'm Jiya 👋
-Recent BSc Artificial Intelligence graduate from Anglia Ruskin University. I build practical ML systems, experiment with intelligent control, and craft clean web-frontends to showcase projects — all with an emphasis on fairness, explainability, and real-world impact.
+Motivated BSc student at Anglia Ruskin University specialising in Data Science, Artificial Intelligence and Machine Learning. Strong foundation in Python, data analysis, and SQL, with practical experience developing an NLP-based resume screening project. Demonstrates excellent problem-solving, teamwork, and communication skills gained through academic and customer-facing roles. Eager to apply analytical skills in a data-driven or technology-focused environment.
 
 ---
 
 ## 🚀 What I do
-- Build end-to-end ML solutions (NLP & deep learning) and prototype control systems.
-- Turn research and coursework into reproducible notebooks and clear demos.
-- Communicate technical work through concise code, documentation, and portfolio sites.
-
+- I build end-to-end machine learning projects, specialising in NLP and deep learning—from raw data to meaningful insights.
+- I enjoy turning ideas and coursework into clean, reproducible projects with interactive demos.
+- Passionate about solving real-world problems through data, while continuously learning and experimenting with new technologies.
 ---
 
 ## 🔧 Skills & Tools
-Python · NumPy · pandas · scikit-learn · PyTorch/TensorFlow · NLP · Jupyter Notebooks · MATLAB · Fuzzy Logic · HTML · Git · Linux
+Python · NumPy · pandas · scikit-learn · Machine Learning . PyTorch/TensorFlow · NLP · Jupyter Notebooks · MATLAB · Fuzzy Logic · HTML · Git · MS Office Tools . Data Analysis. Data Cleaning . Deep Learning . Artificial Intelligence 
 
 ---
 
@@ -37,14 +36,13 @@ Python · NumPy · pandas · scikit-learn · PyTorch/TensorFlow · NLP · Jupyte
 
 ## 🎓 Education
 BSc Artificial Intelligence — Anglia Ruskin University  
-Upper Second Class Honours 
 
 ---
 
 ## 📫 Get in touch
 - GitHub: https://github.com/Jiyamaria  
 - LinkedIn: www.linkedin.com/in/jiyamaria
-
+- jiyamaria2002@gmail.com 
 ---
 
 ## 🌱 Next steps I’m working on
